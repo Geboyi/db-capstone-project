@@ -1,0 +1,1001 @@
+﻿MenuID,MenuItemsID,MenuName,Cuisine Name
+333,100010,Tapas,Greek
+545,100011,Potato salad,Italian
+214,100012,Bruschetta,Italian
+466,100013,Focaccia,Turkish
+27,100014,Meatballs,Greek
+984,100015,Fries,Italian
+71,100016,Tapas,Italian
+648,100017,Potato salad,Turkish
+784,100018,Bruschetta,Greek
+821,100019,Focaccia,Italian
+826,100020,Meatballs,Italian
+131,100021,Fries,Turkish
+387,100022,Tapas,Greek
+962,100023,Potato salad,Italian
+577,100024,Bruschetta,Italian
+243,100025,Focaccia,Turkish
+631,100026,Meatballs,Greek
+768,100027,Fries,Italian
+28,100028,Tapas,Italian
+197,100029,Potato salad,Turkish
+587,100030,Bruschetta,Greek
+85,100031,Focaccia,Italian
+998,100032,Meatballs,Italian
+438,100033,Fries,Turkish
+487,100034,Tapas,Greek
+907,100035,Potato salad,Italian
+867,100036,Bruschetta,Italian
+70,100037,Focaccia,Turkish
+619,100038,Meatballs,Greek
+365,100039,Fries,Italian
+638,100040,Tapas,Italian
+423,100041,Potato salad,Turkish
+352,100042,Bruschetta,Greek
+967,100043,Focaccia,Italian
+789,100044,Meatballs,Italian
+125,100045,Fries,Turkish
+286,100046,Tapas,Greek
+914,100047,Potato salad,Italian
+377,100048,Bruschetta,Italian
+746,100049,Focaccia,Turkish
+319,100050,Meatballs,Greek
+150,100051,Fries,Italian
+23,100052,Tapas,Italian
+255,100053,Potato salad,Turkish
+383,100054,Bruschetta,Greek
+425,100055,Focaccia,Italian
+708,100056,Meatballs,Italian
+790,100057,Fries,Turkish
+575,100058,Tapas,Greek
+16,100059,Potato salad,Italian
+742,100060,Bruschetta,Italian
+66,100061,Focaccia,Turkish
+903,100062,Meatballs,Greek
+367,100063,Fries,Italian
+904,100064,Tapas,Italian
+469,100065,Potato salad,Turkish
+142,100066,Bruschetta,Greek
+937,100067,Focaccia,Italian
+500,100068,Meatballs,Italian
+195,100069,Fries,Turkish
+229,100070,Tapas,Greek
+108,100071,Potato salad,Italian
+149,100072,Bruschetta,Italian
+741,100073,Focaccia,Turkish
+301,100074,Meatballs,Greek
+442,100075,Fries,Italian
+751,100076,Tapas,Italian
+180,100077,Potato salad,Turkish
+223,100078,Bruschetta,Greek
+410,100079,Focaccia,Italian
+55,100080,Meatballs,Italian
+15,100081,Fries,Turkish
+376,100082,Tapas,Greek
+501,100083,Potato salad,Italian
+252,100084,Bruschetta,Italian
+173,100085,Focaccia,Turkish
+310,100086,Meatballs,Greek
+358,100087,Fries,Italian
+507,100088,Tapas,Italian
+64,100089,Potato salad,Turkish
+360,100090,Bruschetta,Greek
+762,100091,Focaccia,Italian
+640,100092,Meatballs,Italian
+405,100093,Fries,Turkish
+795,100094,Tapas,Greek
+576,100095,Potato salad,Italian
+151,100096,Bruschetta,Italian
+520,100097,Focaccia,Turkish
+845,100098,Meatballs,Greek
+21,100099,Fries,Italian
+422,100100,Tapas,Italian
+780,100101,Potato salad,Turkish
+726,100102,Bruschetta,Greek
+397,100103,Focaccia,Italian
+111,100104,Meatballs,Italian
+855,100105,Fries,Turkish
+470,100106,Tapas,Greek
+730,100107,Potato salad,Italian
+449,100108,Bruschetta,Italian
+993,100109,Focaccia,Turkish
+628,100110,Meatballs,Greek
+179,100111,Fries,Italian
+432,100112,Tapas,Italian
+430,100113,Potato salad,Turkish
+814,100114,Bruschetta,Greek
+897,100115,Focaccia,Italian
+437,100116,Meatballs,Italian
+433,100117,Fries,Turkish
+294,100118,Tapas,Greek
+427,100119,Potato salad,Italian
+882,100120,Bruschetta,Italian
+591,100121,Focaccia,Turkish
+196,100122,Meatballs,Greek
+602,100123,Fries,Italian
+824,100124,Tapas,Italian
+124,100125,Potato salad,Turkish
+431,100126,Bruschetta,Greek
+247,100127,Focaccia,Italian
+492,100128,Meatballs,Italian
+589,100129,Fries,Turkish
+189,100130,Tapas,Greek
+348,100131,Potato salad,Italian
+113,100132,Bruschetta,Italian
+160,100133,Focaccia,Turkish
+439,100134,Meatballs,Greek
+226,100135,Fries,Italian
+535,100136,Tapas,Italian
+239,100137,Potato salad,Turkish
+207,100138,Bruschetta,Greek
+242,100139,Focaccia,Italian
+339,100140,Meatballs,Italian
+285,100141,Fries,Turkish
+76,100142,Tapas,Greek
+93,100143,Potato salad,Italian
+986,100144,Bruschetta,Italian
+275,100145,Focaccia,Turkish
+934,100146,Meatballs,Greek
+953,100147,Fries,Italian
+942,100148,Tapas,Italian
+629,100149,Potato salad,Turkish
+706,100150,Bruschetta,Greek
+498,100151,Focaccia,Italian
+299,100152,Meatballs,Italian
+793,100153,Fries,Turkish
+489,100154,Tapas,Greek
+458,100155,Potato salad,Italian
+10,100156,Bruschetta,Italian
+119,100157,Focaccia,Turkish
+664,100158,Meatballs,Greek
+656,100159,Fries,Italian
+939,100160,Tapas,Italian
+902,100161,Potato salad,Turkish
+51,100162,Bruschetta,Greek
+933,100163,Focaccia,Italian
+955,100164,Meatballs,Italian
+225,100165,Fries,Turkish
+378,100166,Tapas,Greek
+849,100167,Potato salad,Italian
+364,100168,Bruschetta,Italian
+61,100169,Focaccia,Turkish
+404,100170,Meatballs,Greek
+457,100171,Fries,Italian
+282,100172,Tapas,Italian
+978,100173,Potato salad,Turkish
+605,100174,Bruschetta,Greek
+441,100175,Focaccia,Italian
+408,100176,Meatballs,Italian
+980,100177,Fries,Turkish
+860,100178,Tapas,Greek
+669,100179,Potato salad,Italian
+418,100180,Bruschetta,Italian
+889,100181,Focaccia,Turkish
+345,100182,Meatballs,Greek
+172,100183,Fries,Italian
+884,100184,Tapas,Italian
+154,100185,Potato salad,Turkish
+517,100186,Bruschetta,Greek
+33,100187,Focaccia,Italian
+653,100188,Meatballs,Italian
+62,100189,Fries,Turkish
+164,100190,Tapas,Greek
+256,100191,Potato salad,Italian
+703,100192,Bruschetta,Italian
+911,100193,Focaccia,Turkish
+815,100194,Meatballs,Greek
+969,100195,Fries,Italian
+560,100196,Tapas,Italian
+943,100197,Potato salad,Turkish
+667,100198,Bruschetta,Greek
+936,100199,Focaccia,Italian
+372,100200,Meatballs,Italian
+289,100201,Fries,Turkish
+227,100202,Tapas,Greek
+407,100203,Potato salad,Italian
+474,100204,Bruschetta,Italian
+307,100205,Focaccia,Turkish
+680,100206,Meatballs,Greek
+246,100207,Fries,Italian
+107,100208,Tapas,Italian
+736,100209,Potato salad,Turkish
+464,100210,Bruschetta,Greek
+732,100211,Focaccia,Italian
+735,100212,Meatballs,Italian
+607,100213,Fries,Turkish
+968,100214,Tapas,Greek
+11,100215,Potato salad,Italian
+682,100216,Bruschetta,Italian
+69,100217,Focaccia,Turkish
+712,100218,Meatballs,Greek
+395,100219,Fries,Italian
+846,100220,Tapas,Italian
+783,100221,Potato salad,Turkish
+995,100222,Bruschetta,Greek
+928,100223,Focaccia,Italian
+329,100224,Meatballs,Italian
+496,100225,Fries,Turkish
+983,100226,Tapas,Greek
+384,100227,Potato salad,Italian
+940,100228,Bruschetta,Italian
+694,100229,Focaccia,Turkish
+26,100230,Meatballs,Greek
+924,100231,Fries,Italian
+109,100232,Tapas,Italian
+192,100233,Potato salad,Turkish
+992,100234,Bruschetta,Greek
+797,100235,Focaccia,Italian
+483,100236,Meatballs,Italian
+685,100237,Fries,Turkish
+453,100238,Tapas,Greek
+114,100239,Potato salad,Italian
+49,100240,Bruschetta,Italian
+552,100241,Focaccia,Turkish
+447,100242,Meatballs,Greek
+185,100243,Fries,Italian
+411,100244,Tapas,Italian
+480,100245,Potato salad,Turkish
+379,100246,Bruschetta,Greek
+737,100247,Focaccia,Italian
+266,100248,Meatballs,Italian
+835,100249,Fries,Turkish
+791,100250,Tapas,Greek
+918,100251,Potato salad,Italian
+765,100252,Bruschetta,Italian
+117,100253,Focaccia,Turkish
+608,100254,Meatballs,Greek
+340,100255,Fries,Italian
+400,100256,Tapas,Italian
+515,100257,Potato salad,Turkish
+298,100258,Bruschetta,Greek
+374,100259,Focaccia,Italian
+561,100260,Meatballs,Italian
+244,100261,Fries,Turkish
+692,100262,Tapas,Greek
+41,100263,Potato salad,Italian
+112,100264,Bruschetta,Italian
+170,100265,Focaccia,Turkish
+165,100266,Meatballs,Greek
+375,100267,Fries,Italian
+734,100268,Tapas,Italian
+297,100269,Potato salad,Turkish
+606,100270,Bruschetta,Greek
+316,100271,Focaccia,Italian
+864,100272,Meatballs,Italian
+392,100273,Fries,Turkish
+550,100274,Tapas,Greek
+724,100275,Potato salad,Italian
+230,100276,Bruschetta,Italian
+40,100277,Focaccia,Turkish
+426,100278,Meatballs,Greek
+171,100279,Fries,Italian
+597,100280,Tapas,Italian
+833,100281,Potato salad,Turkish
+841,100282,Bruschetta,Greek
+776,100283,Focaccia,Italian
+269,100284,Meatballs,Italian
+894,100285,Fries,Turkish
+848,100286,Tapas,Greek
+547,100287,Potato salad,Italian
+94,100288,Bruschetta,Italian
+803,100289,Focaccia,Turkish
+398,100290,Meatballs,Greek
+564,100291,Fries,Italian
+836,100292,Tapas,Italian
+961,100293,Potato salad,Turkish
+816,100294,Bruschetta,Greek
+241,100295,Focaccia,Italian
+39,100296,Meatballs,Italian
+73,100297,Fries,Turkish
+873,100298,Tapas,Greek
+257,100299,Potato salad,Italian
+234,100300,Bruschetta,Italian
+970,100301,Focaccia,Turkish
+176,100302,Meatballs,Greek
+245,100303,Fries,Italian
+810,100304,Tapas,Italian
+844,100305,Potato salad,Turkish
+132,100306,Bruschetta,Greek
+334,100307,Focaccia,Italian
+555,100308,Meatballs,Italian
+101,100309,Fries,Turkish
+232,100310,Tapas,Greek
+118,100311,Potato salad,Italian
+785,100312,Bruschetta,Italian
+518,100313,Focaccia,Turkish
+274,100314,Meatballs,Greek
+620,100315,Fries,Italian
+678,100316,Tapas,Italian
+503,100317,Potato salad,Turkish
+385,100318,Bruschetta,Greek
+834,100319,Focaccia,Italian
+948,100320,Meatballs,Italian
+974,100321,Fries,Turkish
+584,100322,Tapas,Greek
+996,100323,Potato salad,Italian
+879,100324,Bruschetta,Italian
+362,100325,Focaccia,Turkish
+769,100326,Meatballs,Greek
+330,100327,Fries,Italian
+979,100328,Tapas,Italian
+534,100329,Potato salad,Turkish
+250,100330,Bruschetta,Greek
+1000,100331,Focaccia,Italian
+960,100332,Meatballs,Italian
+681,100333,Fries,Turkish
+288,100334,Tapas,Greek
+290,100335,Potato salad,Italian
+42,100336,Bruschetta,Italian
+369,100337,Focaccia,Turkish
+755,100338,Meatballs,Greek
+237,100339,Fries,Italian
+368,100340,Tapas,Italian
+406,100341,Potato salad,Turkish
+596,100342,Bruschetta,Greek
+782,100343,Focaccia,Italian
+813,100344,Meatballs,Italian
+823,100345,Fries,Turkish
+281,100346,Tapas,Greek
+593,100347,Potato salad,Italian
+129,100348,Bruschetta,Italian
+513,100349,Focaccia,Turkish
+271,100350,Meatballs,Greek
+567,100351,Fries,Italian
+551,100352,Tapas,Italian
+627,100353,Potato salad,Turkish
+25,100354,Bruschetta,Greek
+188,100355,Focaccia,Italian
+562,100356,Meatballs,Italian
+484,100357,Fries,Turkish
+702,100358,Tapas,Greek
+261,100359,Potato salad,Italian
+588,100360,Bruschetta,Italian
+263,100361,Focaccia,Turkish
+35,100362,Meatballs,Greek
+759,100363,Fries,Italian
+837,100364,Tapas,Italian
+37,100365,Potato salad,Turkish
+981,100366,Bruschetta,Greek
+157,100367,Focaccia,Italian
+925,100368,Meatballs,Italian
+91,100369,Fries,Turkish
+152,100370,Tapas,Greek
+912,100371,Potato salad,Italian
+4,100372,Bruschetta,Italian
+941,100373,Focaccia,Turkish
+287,100374,Meatballs,Greek
+459,100375,Fries,Italian
+428,100376,Tapas,Italian
+947,100377,Potato salad,Turkish
+705,100378,Bruschetta,Greek
+537,100379,Focaccia,Italian
+34,100380,Meatballs,Italian
+763,100381,Fries,Turkish
+920,100382,Tapas,Greek
+786,100383,Potato salad,Italian
+190,100384,Bruschetta,Italian
+898,100385,Focaccia,Turkish
+747,100386,Meatballs,Greek
+219,100387,Fries,Italian
+413,100388,Tapas,Italian
+756,100389,Potato salad,Turkish
+590,100390,Bruschetta,Greek
+966,100391,Focaccia,Italian
+402,100392,Meatballs,Italian
+665,100393,Fries,Turkish
+733,100394,Tapas,Greek
+315,100395,Potato salad,Italian
+198,100396,Bruschetta,Italian
+654,100397,Focaccia,Turkish
+57,100398,Meatballs,Greek
+53,100399,Fries,Italian
+127,100400,Tapas,Italian
+875,100401,Potato salad,Turkish
+83,100402,Bruschetta,Greek
+184,100403,Focaccia,Italian
+139,100404,Meatballs,Italian
+927,100405,Fries,Turkish
+456,100406,Tapas,Greek
+739,100407,Potato salad,Italian
+424,100408,Bruschetta,Italian
+817,100409,Focaccia,Turkish
+774,100410,Meatballs,Greek
+883,100411,Fries,Italian
+991,100412,Tapas,Italian
+630,100413,Potato salad,Turkish
+346,100414,Bruschetta,Greek
+745,100415,Focaccia,Italian
+805,100416,Meatballs,Italian
+944,100417,Fries,Turkish
+945,100418,Tapas,Greek
+508,100419,Potato salad,Italian
+325,100420,Bruschetta,Italian
+870,100421,Focaccia,Turkish
+711,100422,Meatballs,Greek
+611,100423,Fries,Italian
+950,100424,Tapas,Italian
+938,100425,Potato salad,Turkish
+818,100426,Bruschetta,Greek
+220,100427,Focaccia,Italian
+59,100428,Meatballs,Italian
+133,100429,Fries,Turkish
+9,100430,Tapas,Greek
+559,100431,Potato salad,Italian
+370,100432,Bruschetta,Italian
+162,100433,Focaccia,Turkish
+946,100434,Meatballs,Greek
+468,100435,Fries,Italian
+720,100436,Tapas,Italian
+865,100437,Potato salad,Turkish
+526,100438,Bruschetta,Greek
+771,100439,Focaccia,Italian
+655,100440,Meatballs,Italian
+716,100441,Fries,Turkish
+604,100442,Tapas,Greek
+455,100443,Potato salad,Italian
+106,100444,Bruschetta,Italian
+635,100445,Focaccia,Turkish
+677,100446,Meatballs,Greek
+505,100447,Fries,Italian
+583,100448,Tapas,Italian
+744,100449,Potato salad,Turkish
+168,100450,Bruschetta,Greek
+801,100451,Focaccia,Italian
+871,100452,Meatballs,Italian
+866,100453,Fries,Turkish
+571,100454,Tapas,Greek
+781,100455,Potato salad,Italian
+309,100456,Bruschetta,Italian
+146,100457,Focaccia,Turkish
+206,100458,Meatballs,Greek
+355,100459,Fries,Italian
+20,100460,Tapas,Italian
+353,100461,Potato salad,Turkish
+752,100462,Bruschetta,Greek
+613,100463,Focaccia,Italian
+84,100464,Meatballs,Italian
+695,100465,Fries,Turkish
+688,100466,Tapas,Greek
+44,100467,Potato salad,Italian
+322,100468,Bruschetta,Italian
+98,100469,Focaccia,Turkish
+579,100470,Meatballs,Greek
+524,100471,Fries,Italian
+147,100472,Tapas,Italian
+135,100473,Potato salad,Turkish
+977,100474,Bruschetta,Greek
+563,100475,Focaccia,Italian
+556,100476,Meatballs,Italian
+366,100477,Fries,Turkish
+264,100478,Tapas,Greek
+916,100479,Potato salad,Italian
+850,100480,Bruschetta,Italian
+880,100481,Focaccia,Turkish
+542,100482,Meatballs,Greek
+31,100483,Fries,Italian
+43,100484,Tapas,Italian
+886,100485,Potato salad,Turkish
+313,100486,Bruschetta,Greek
+82,100487,Focaccia,Italian
+347,100488,Meatballs,Italian
+710,100489,Fries,Turkish
+210,100490,Tapas,Greek
+573,100491,Potato salad,Italian
+79,100492,Bruschetta,Italian
+314,100493,Focaccia,Turkish
+760,100494,Meatballs,Greek
+888,100495,Fries,Italian
+421,100496,Tapas,Italian
+199,100497,Potato salad,Turkish
+838,100498,Bruschetta,Greek
+868,100499,Focaccia,Italian
+657,100500,Meatballs,Italian
+890,100501,Fries,Turkish
+723,100502,Tapas,Greek
+178,100503,Potato salad,Italian
+382,100504,Bruschetta,Italian
+143,100505,Focaccia,Turkish
+471,100506,Meatballs,Greek
+409,100507,Fries,Italian
+792,100508,Tapas,Italian
+738,100509,Potato salad,Turkish
+77,100510,Bruschetta,Greek
+388,100511,Focaccia,Italian
+820,100512,Meatballs,Italian
+802,100513,Fries,Turkish
+699,100514,Tapas,Greek
+138,100515,Potato salad,Italian
+342,100516,Bruschetta,Italian
+570,100517,Focaccia,Turkish
+104,100518,Meatballs,Greek
+306,100519,Fries,Italian
+419,100520,Tapas,Italian
+327,100521,Potato salad,Turkish
+893,100522,Bruschetta,Greek
+574,100523,Focaccia,Italian
+389,100524,Meatballs,Italian
+130,100525,Fries,Turkish
+416,100526,Tapas,Greek
+618,100527,Potato salad,Italian
+671,100528,Bruschetta,Italian
+228,100529,Focaccia,Turkish
+701,100530,Meatballs,Greek
+122,100531,Fries,Italian
+485,100532,Tapas,Italian
+479,100533,Potato salad,Turkish
+436,100534,Bruschetta,Greek
+557,100535,Focaccia,Italian
+965,100536,Meatballs,Italian
+140,100537,Fries,Turkish
+788,100538,Tapas,Greek
+625,100539,Potato salad,Italian
+202,100540,Bruschetta,Italian
+578,100541,Focaccia,Turkish
+636,100542,Meatballs,Greek
+201,100543,Fries,Italian
+807,100544,Tapas,Italian
+964,100545,Potato salad,Turkish
+715,100546,Bruschetta,Greek
+1,100547,Focaccia,Italian
+876,100548,Meatballs,Italian
+852,100549,Fries,Turkish
+268,100550,Tapas,Greek
+725,100551,Potato salad,Italian
+394,100552,Bruschetta,Italian
+901,100553,Focaccia,Turkish
+854,100554,Meatballs,Greek
+67,100555,Fries,Italian
+209,100556,Tapas,Italian
+757,100557,Potato salad,Turkish
+499,100558,Bruschetta,Greek
+380,100559,Focaccia,Italian
+96,100560,Meatballs,Italian
+502,100561,Fries,Turkish
+141,100562,Tapas,Greek
+312,100563,Potato salad,Italian
+208,100564,Bruschetta,Italian
+8,100565,Focaccia,Turkish
+194,100566,Meatballs,Greek
+24,100567,Fries,Italian
+58,100568,Tapas,Italian
+829,100569,Potato salad,Turkish
+832,100570,Bruschetta,Greek
+103,100571,Focaccia,Italian
+75,100572,Meatballs,Italian
+830,100573,Fries,Turkish
+116,100574,Tapas,Greek
+661,100575,Potato salad,Italian
+78,100576,Bruschetta,Italian
+658,100577,Focaccia,Turkish
+609,100578,Meatballs,Greek
+72,100579,Fries,Italian
+959,100580,Tapas,Italian
+668,100581,Potato salad,Turkish
+276,100582,Bruschetta,Greek
+80,100583,Focaccia,Italian
+958,100584,Meatballs,Italian
+540,100585,Fries,Turkish
+265,100586,Tapas,Greek
+260,100587,Potato salad,Italian
+915,100588,Bruschetta,Italian
+440,100589,Focaccia,Turkish
+163,100590,Meatballs,Greek
+193,100591,Fries,Italian
+486,100592,Tapas,Italian
+847,100593,Potato salad,Turkish
+687,100594,Bruschetta,Greek
+775,100595,Focaccia,Italian
+643,100596,Meatballs,Italian
+772,100597,Fries,Turkish
+305,100598,Tapas,Greek
+262,100599,Potato salad,Italian
+36,100600,Bruschetta,Italian
+594,100601,Focaccia,Turkish
+86,100602,Meatballs,Greek
+592,100603,Fries,Italian
+481,100604,Tapas,Italian
+614,100605,Potato salad,Turkish
+277,100606,Bruschetta,Greek
+12,100607,Focaccia,Italian
+38,100608,Meatballs,Italian
+539,100609,Fries,Turkish
+390,100610,Tapas,Greek
+840,100611,Potato salad,Italian
+548,100612,Bruschetta,Italian
+328,100613,Focaccia,Turkish
+976,100614,Meatballs,Greek
+651,100615,Fries,Italian
+825,100616,Tapas,Italian
+861,100617,Potato salad,Turkish
+827,100618,Bruschetta,Greek
+454,100619,Focaccia,Italian
+663,100620,Meatballs,Italian
+155,100621,Fries,Turkish
+896,100622,Tapas,Greek
+683,100623,Potato salad,Italian
+887,100624,Bruschetta,Italian
+497,100625,Focaccia,Turkish
+145,100626,Meatballs,Greek
+63,100627,Fries,Italian
+159,100628,Tapas,Italian
+646,100629,Potato salad,Turkish
+722,100630,Bruschetta,Greek
+622,100631,Focaccia,Italian
+476,100632,Meatballs,Italian
+331,100633,Fries,Turkish
+2,100634,Tapas,Greek
+809,100635,Potato salad,Italian
+187,100636,Bruschetta,Italian
+877,100637,Focaccia,Turkish
+144,100638,Meatballs,Greek
+99,100639,Fries,Italian
+773,100640,Tapas,Italian
+396,100641,Potato salad,Turkish
+743,100642,Bruschetta,Greek
+166,100643,Focaccia,Italian
+249,100644,Meatballs,Italian
+332,100645,Fries,Turkish
+931,100646,Tapas,Greek
+95,100647,Potato salad,Italian
+177,100648,Bruschetta,Italian
+600,100649,Focaccia,Turkish
+3,100650,Meatballs,Greek
+519,100651,Fries,Italian
+693,100652,Tapas,Italian
+764,100653,Potato salad,Turkish
+495,100654,Bruschetta,Greek
+808,100655,Focaccia,Italian
+326,100656,Meatballs,Italian
+891,100657,Fries,Turkish
+231,100658,Tapas,Greek
+988,100659,Potato salad,Italian
+997,100660,Bruschetta,Italian
+971,100661,Focaccia,Turkish
+549,100662,Meatballs,Greek
+461,100663,Fries,Italian
+989,100664,Tapas,Italian
+987,100665,Potato salad,Turkish
+581,100666,Bruschetta,Greek
+381,100667,Focaccia,Italian
+666,100668,Meatballs,Italian
+748,100669,Fries,Turkish
+717,100670,Tapas,Greek
+659,100671,Potato salad,Italian
+45,100672,Bruschetta,Italian
+617,100673,Focaccia,Turkish
+321,100674,Meatballs,Greek
+448,100675,Fries,Italian
+930,100676,Tapas,Italian
+270,100677,Potato salad,Turkish
+6,100678,Bruschetta,Greek
+721,100679,Focaccia,Italian
+905,100680,Meatballs,Italian
+595,100681,Fries,Turkish
+767,100682,Tapas,Greek
+296,100683,Potato salad,Italian
+217,100684,Bruschetta,Italian
+279,100685,Focaccia,Turkish
+87,100686,Meatballs,Greek
+546,100687,Fries,Italian
+444,100688,Tapas,Italian
+851,100689,Potato salad,Turkish
+222,100690,Bruschetta,Greek
+514,100691,Focaccia,Italian
+295,100692,Meatballs,Italian
+572,100693,Fries,Turkish
+610,100694,Tapas,Greek
+443,100695,Potato salad,Italian
+137,100696,Bruschetta,Italian
+88,100697,Focaccia,Turkish
+50,100698,Meatballs,Greek
+19,100699,Fries,Italian
+303,100700,Tapas,Italian
+932,100701,Potato salad,Turkish
+676,100702,Bruschetta,Greek
+417,100703,Focaccia,Italian
+565,100704,Meatballs,Italian
+672,100705,Fries,Turkish
+128,100706,Tapas,Greek
+569,100707,Potato salad,Italian
+429,100708,Bruschetta,Italian
+641,100709,Focaccia,Turkish
+412,100710,Meatballs,Greek
+874,100711,Fries,Italian
+273,100712,Tapas,Italian
+391,100713,Potato salad,Turkish
+465,100714,Bruschetta,Greek
+291,100715,Focaccia,Italian
+615,100716,Meatballs,Italian
+819,100717,Fries,Turkish
+892,100718,Tapas,Greek
+626,100719,Potato salad,Italian
+251,100720,Bruschetta,Italian
+293,100721,Focaccia,Turkish
+787,100722,Meatballs,Greek
+985,100723,Fries,Italian
+386,100724,Tapas,Italian
+531,100725,Potato salad,Turkish
+899,100726,Bruschetta,Greek
+224,100727,Focaccia,Italian
+65,100728,Meatballs,Italian
+634,100729,Fries,Turkish
+280,100730,Tapas,Greek
+753,100731,Potato salad,Italian
+543,100732,Bruschetta,Italian
+148,100733,Focaccia,Turkish
+633,100734,Meatballs,Greek
+363,100735,Fries,Italian
+371,100736,Tapas,Italian
+167,100737,Potato salad,Turkish
+336,100738,Bruschetta,Greek
+949,100739,Focaccia,Italian
+954,100740,Meatballs,Italian
+182,100741,Fries,Turkish
+399,100742,Tapas,Greek
+308,100743,Potato salad,Italian
+749,100744,Bruschetta,Italian
+621,100745,Focaccia,Turkish
+68,100746,Meatballs,Greek
+356,100747,Fries,Italian
+828,100748,Tapas,Italian
+272,100749,Potato salad,Turkish
+52,100750,Bruschetta,Greek
+158,100751,Focaccia,Italian
+777,100752,Meatballs,Italian
+420,100753,Fries,Turkish
+831,100754,Tapas,Greek
+153,100755,Potato salad,Italian
+796,100756,Bruschetta,Italian
+647,100757,Focaccia,Turkish
+598,100758,Meatballs,Greek
+183,100759,Fries,Italian
+120,100760,Tapas,Italian
+644,100761,Potato salad,Turkish
+460,100762,Bruschetta,Greek
+318,100763,Focaccia,Italian
+169,100764,Meatballs,Italian
+973,100765,Fries,Turkish
+357,100766,Tapas,Greek
+862,100767,Potato salad,Italian
+616,100768,Bruschetta,Italian
+558,100769,Focaccia,Turkish
+446,100770,Meatballs,Greek
+566,100771,Fries,Italian
+800,100772,Tapas,Italian
+478,100773,Potato salad,Turkish
+161,100774,Bruschetta,Greek
+798,100775,Focaccia,Italian
+922,100776,Meatballs,Italian
+267,100777,Fries,Turkish
+361,100778,Tapas,Greek
+343,100779,Potato salad,Italian
+599,100780,Bruschetta,Italian
+335,100781,Focaccia,Turkish
+799,100782,Meatballs,Greek
+344,100783,Fries,Italian
+284,100784,Tapas,Italian
+115,100785,Potato salad,Turkish
+452,100786,Bruschetta,Greek
+506,100787,Focaccia,Italian
+126,100788,Meatballs,Italian
+253,100789,Fries,Turkish
+952,100790,Tapas,Greek
+533,100791,Potato salad,Italian
+719,100792,Bruschetta,Italian
+204,100793,Focaccia,Turkish
+843,100794,Meatballs,Greek
+812,100795,Fries,Italian
+7,100796,Tapas,Italian
+105,100797,Potato salad,Turkish
+488,100798,Bruschetta,Greek
+963,100799,Focaccia,Italian
+218,100800,Meatballs,Italian
+642,100801,Fries,Turkish
+645,100802,Tapas,Greek
+674,100803,Potato salad,Italian
+704,100804,Bruschetta,Italian
+994,100805,Focaccia,Turkish
+544,100806,Meatballs,Greek
+491,100807,Fries,Italian
+504,100808,Tapas,Italian
+110,100809,Potato salad,Turkish
+872,100810,Bruschetta,Greek
+490,100811,Focaccia,Italian
+856,100812,Meatballs,Italian
+623,100813,Fries,Turkish
+473,100814,Tapas,Greek
+30,100815,Potato salad,Italian
+18,100816,Bruschetta,Italian
+956,100817,Focaccia,Turkish
+510,100818,Meatballs,Greek
+401,100819,Fries,Italian
+532,100820,Tapas,Italian
+530,100821,Potato salad,Turkish
+972,100822,Bruschetta,Greek
+292,100823,Focaccia,Italian
+718,100824,Meatballs,Italian
+908,100825,Fries,Turkish
+203,100826,Tapas,Greek
+17,100827,Potato salad,Italian
+553,100828,Bruschetta,Italian
+403,100829,Focaccia,Turkish
+175,100830,Meatballs,Greek
+696,100831,Fries,Italian
+822,100832,Tapas,Italian
+56,100833,Potato salad,Turkish
+652,100834,Bruschetta,Greek
+554,100835,Focaccia,Italian
+601,100836,Meatballs,Italian
+660,100837,Fries,Turkish
+156,100838,Tapas,Greek
+675,100839,Potato salad,Italian
+90,100840,Bruschetta,Italian
+909,100841,Focaccia,Turkish
+354,100842,Meatballs,Greek
+54,100843,Fries,Italian
+586,100844,Tapas,Italian
+221,100845,Potato salad,Turkish
+475,100846,Bruschetta,Greek
+181,100847,Focaccia,Italian
+134,100848,Meatballs,Italian
+350,100849,Fries,Turkish
+881,100850,Tapas,Greek
+278,100851,Potato salad,Italian
+528,100852,Bruschetta,Italian
+929,100853,Focaccia,Turkish
+529,100854,Meatballs,Greek
+186,100855,Fries,Italian
+580,100856,Tapas,Italian
+999,100857,Potato salad,Turkish
+434,100858,Bruschetta,Greek
+14,100859,Focaccia,Italian
+709,100860,Meatballs,Italian
+302,100861,Fries,Turkish
+885,100862,Tapas,Greek
+509,100863,Potato salad,Italian
+957,100864,Bruschetta,Italian
+5,100865,Focaccia,Turkish
+136,100866,Meatballs,Greek
+684,100867,Fries,Italian
+240,100868,Tapas,Italian
+842,100869,Potato salad,Turkish
+697,100870,Bruschetta,Greek
+102,100871,Focaccia,Italian
+740,100872,Meatballs,Italian
+707,100873,Fries,Turkish
+494,100874,Tapas,Greek
+727,100875,Potato salad,Italian
+516,100876,Bruschetta,Italian
+300,100877,Focaccia,Turkish
+521,100878,Meatballs,Greek
+670,100879,Fries,Italian
+804,100880,Tapas,Italian
+951,100881,Potato salad,Turkish
+662,100882,Bruschetta,Greek
+48,100883,Focaccia,Italian
+13,100884,Meatballs,Italian
+729,100885,Fries,Turkish
+324,100886,Tapas,Greek
+691,100887,Potato salad,Italian
+926,100888,Bruschetta,Italian
+778,100889,Focaccia,Turkish
+32,100890,Meatballs,Greek
+493,100891,Fries,Italian
+22,100892,Tapas,Italian
+523,100893,Potato salad,Turkish
+859,100894,Bruschetta,Greek
+235,100895,Focaccia,Italian
+582,100896,Meatballs,Italian
+649,100897,Fries,Turkish
+258,100898,Tapas,Greek
+806,100899,Potato salad,Italian
+858,100900,Bruschetta,Italian
+233,100901,Focaccia,Turkish
+74,100902,Meatballs,Greek
+878,100903,Fries,Italian
+248,100904,Tapas,Italian
+451,100905,Potato salad,Turkish
+92,100906,Bruschetta,Greek
+200,100907,Focaccia,Italian
+779,100908,Meatballs,Italian
+213,100909,Fries,Turkish
+211,100910,Tapas,Greek
+254,100911,Potato salad,Italian
+612,100912,Bruschetta,Italian
+713,100913,Focaccia,Turkish
+320,100914,Meatballs,Greek
+341,100915,Fries,Italian
+731,100916,Tapas,Italian
+89,100917,Potato salad,Turkish
+512,100918,Bruschetta,Greek
+585,100919,Focaccia,Italian
+761,100920,Meatballs,Italian
+216,100921,Fries,Turkish
+47,100922,Tapas,Greek
+60,100923,Potato salad,Italian
+472,100924,Bruschetta,Italian
+215,100925,Focaccia,Turkish
+259,100926,Meatballs,Greek
+463,100927,Fries,Italian
+81,100928,Tapas,Italian
+191,100929,Potato salad,Turkish
+673,100930,Bruschetta,Greek
+910,100931,Focaccia,Italian
+632,100932,Meatballs,Italian
+895,100933,Fries,Turkish
+100,100934,Tapas,Greek
+975,100935,Potato salad,Italian
+686,100936,Bruschetta,Italian
+393,100937,Focaccia,Turkish
+525,100938,Meatballs,Greek
+603,100939,Fries,Italian
+919,100940,Tapas,Italian
+29,100941,Potato salad,Turkish
+839,100942,Bruschetta,Greek
+283,100943,Focaccia,Italian
+445,100944,Meatballs,Italian
+536,100945,Fries,Turkish
+97,100946,Tapas,Greek
+689,100947,Potato salad,Italian
+869,100948,Bruschetta,Italian
+758,100949,Focaccia,Turkish
+205,100950,Meatballs,Greek
+511,100951,Fries,Italian
+541,100952,Tapas,Italian
+435,100953,Potato salad,Turkish
+698,100954,Bruschetta,Greek
+679,100955,Focaccia,Italian
+754,100956,Meatballs,Italian
+921,100957,Fries,Turkish
+351,100958,Tapas,Greek
+46,100959,Potato salad,Italian
+311,100960,Bruschetta,Italian
+462,100961,Focaccia,Turkish
+913,100962,Meatballs,Greek
+750,100963,Fries,Italian
+317,100964,Tapas,Italian
+522,100965,Potato salad,Turkish
+863,100966,Bruschetta,Greek
+639,100967,Focaccia,Italian
+690,100968,Meatballs,Italian
+527,100969,Fries,Turkish
+650,100970,Tapas,Greek
+923,100971,Potato salad,Italian
+770,100972,Bruschetta,Italian
+700,100973,Focaccia,Turkish
+624,100974,Meatballs,Greek
+304,100975,Fries,Italian
+538,100976,Tapas,Italian
+900,100977,Potato salad,Turkish
+477,100978,Bruschetta,Greek
+414,100979,Focaccia,Italian
+637,100980,Meatballs,Italian
+174,100981,Fries,Turkish
+323,100982,Tapas,Greek
+794,100983,Potato salad,Italian
+236,100984,Bruschetta,Italian
+982,100985,Focaccia,Turkish
+906,100986,Meatballs,Greek
+121,100987,Fries,Italian
+857,100988,Tapas,Italian
+811,100989,Potato salad,Turkish
+373,100990,Bruschetta,Greek
+450,100991,Focaccia,Italian
+917,100992,Meatballs,Italian
+990,100993,Fries,Turkish
+482,100994,Tapas,Greek
+467,100995,Potato salad,Italian
+212,100996,Bruschetta,Italian
+337,100997,Focaccia,Turkish
+238,100998,Meatballs,Greek
+568,100999,Fries,Italian
+123,101000,Tapas,Italian
+415,101001,Potato salad,Turkish
+338,101002,Bruschetta,Greek
+766,101003,Focaccia,Italian
+935,101004,Meatballs,Italian
+714,101005,Fries,Turkish
+349,101006,Tapas,Greek
+359,101007,Potato salad,Italian
+728,101008,Bruschetta,Italian
+853,101009,Focaccia,Turkish
