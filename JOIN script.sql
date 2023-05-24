@@ -24,3 +24,13 @@ CALL GetOrderDetails (@id);
 
 SET @cancel = '33-207-9048';
 CALL CancelOrder(@cancel);
+
+CALL CheckBooking('2022-10-06', 101);
+
+CALL AddValidBooking('2022-10-04', 1);
+SET FOREIGN_KEY_CHECKS=0;
+CALL AddBooking(1, '00-000-0001', '2023-01-01', 10);
+CALL AddBooking(2, '00-000-0002', '2023-01-02', 11);
+
+CALL UpdateBooking(1, '2023-01-10');
+CALL CancelBooking(2);
